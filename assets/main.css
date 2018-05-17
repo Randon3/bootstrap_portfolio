@@ -1,0 +1,22 @@
+footer {
+    background-color: gray;
+    margin: 0 auto;
+    width: 100%;
+    padding: 15px;
+    border-top: 2px solid #4aaaa5;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 1px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.navbar {
+    border-bottom: solid 2px gray;
+}
